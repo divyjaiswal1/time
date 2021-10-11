@@ -60,4 +60,5 @@ struct tm : This is a structure used to hold the time and date.
 		break;
 	}
 	return(0);
+	//adition of more countries and calculation of time conversion
 }
